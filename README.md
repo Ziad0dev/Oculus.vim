@@ -5,7 +5,7 @@
 
 > **⛧ May your code see through the darkness ⛧**
 
-Oculus Vim is a comprehensive, modern Neovim configuration that surpasses vim.reaper with cutting-edge features, better performance, and an enhanced development experience. Built with Lua and featuring the latest plugins from the Neovim ecosystem.
+Oculus Vim is a comprehensive, modern Neovim configuration with cutting-edge features, better performance, and an enhanced development experience. Built with Lua and featuring the latest plugins from the Neovim ecosystem.
 
 ## ⸸ Features
 
