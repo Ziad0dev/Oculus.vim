@@ -1,6 +1,5 @@
 # ⸸ OCULUS VIM ⸸
-## The All-Seeing Eye of Development
-### *Enhanced Neovim Configuration Beyond vim.reaper*
+## The All-Seeing Eye of my Development Routine
 
 ---
 
