@@ -75,7 +75,7 @@ Oculus Vim is a comprehensive, modern Neovim configuration with cutting-edge fea
 mv ~/.config/nvim ~/.config/nvim.backup
 
 # Clone Oculus Vim
-git clone https://github.com/your-username/oculus-vim ~/.config/nvim
+git clone https://github.com/Ziad0dev/oculus-vim ~/.config/nvim
 
 # Start Neovim (plugins will auto-install)
 nvim
@@ -85,7 +85,7 @@ nvim
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/oculus-vim ~/.config/oculus-vim
+   git clone https://github.com/Ziad0dev/oculus-vim ~/.config/oculus-vim
    ```
 
 2. **Create a symlink or copy**:
