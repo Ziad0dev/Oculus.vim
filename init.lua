@@ -1,8 +1,5 @@
 -- ⸸ OCULUS VIM ⸸
 -- The All-Seeing Eye of Development
--- Enhanced Neovim Configuration Beyond vim.reaper
--- ⛧ May your code see through the darkness ⛧
-
 -- Bootstrap lazy.nvim (modern plugin manager)
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not vim.loop.fs_stat(lazypath) then
