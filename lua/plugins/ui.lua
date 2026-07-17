@@ -1,5 +1,5 @@
 -- ⸸ OCULUS VIM UI ⸸
--- The All-Seeing Eye's Interface - Enhanced Beyond vim.reaper
+-- The All-Seeing Eye's Interface 
 
 return {
   -- ⛧ ENHANCED STATUSLINE ⛧
