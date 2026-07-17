@@ -1,5 +1,5 @@
 -- ⸸ OCULUS VIM KEYMAPS ⸸
--- The All-Seeing Eye's Bindings - Enhanced Beyond vim.reaper
+-- The All-Seeing Eye's Bindings 
 
 local keymap = vim.keymap
 local opts = { noremap = true, silent = true }
