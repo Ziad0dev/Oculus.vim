@@ -229,11 +229,15 @@ return {
             },
           },
           project = {
-            base_dirs = {
+            base_dirs = vim.tbl_filter(function(dir)
+              -- telescope-project warns about every directory that doesn't exist
+              return vim.fn.isdirectory(vim.fn.expand(dir)) == 1
+            end, {
+              "~/Ziad0dev",
               "~/projects",
               "~/work",
               "~/.config",
-            },
+            }),
             hidden_files = true,
             theme = "dropdown",
             order_by = "asc",
